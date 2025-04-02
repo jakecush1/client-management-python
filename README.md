@@ -10,6 +10,12 @@ python3 --version
 ```
 pip install PyQt6
 ```
+
+### Clone repo
+```
+git clone https://github.com/jakecush1/client-management-python.git
+```
+
 ### Navigate to main directory
 ```
 cd medical_clinic_system
