@@ -18,7 +18,8 @@ git clone https://github.com/jakecush1/client-management-python.git
 
 ### Navigate to main directory
 ```
-cd medical_clinic_system
+cd client-management-python/
+cd medical_clinic_system/
 ```
 ### Run the GUI
 ```
